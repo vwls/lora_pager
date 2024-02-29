@@ -1,3 +1,7 @@
+#TODO:
+# display battery level
+# allow user to set radio db level from hardware
+
 from bbq10keyboard import BBQ10Keyboard, STATE_PRESS, STATE_RELEASE, STATE_LONG_PRESS
 from adafruit_stmpe610 import Adafruit_STMPE610_SPI
 import adafruit_ili9341
